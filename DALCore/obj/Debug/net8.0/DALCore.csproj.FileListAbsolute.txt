@@ -1,0 +1,11 @@
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\DALCore\bin\Debug\net8.0\DALCore.deps.json
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\DALCore\bin\Debug\net8.0\DALCore.dll
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\DALCore\bin\Debug\net8.0\DALCore.pdb
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\DALCore\obj\Debug\net8.0\DALCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\DALCore\obj\Debug\net8.0\DALCore.AssemblyInfoInputs.cache
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\DALCore\obj\Debug\net8.0\DALCore.AssemblyInfo.cs
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\DALCore\obj\Debug\net8.0\DALCore.csproj.CoreCompileInputs.cache
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\DALCore\obj\Debug\net8.0\DALCore.dll
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\DALCore\obj\Debug\net8.0\refint\DALCore.dll
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\DALCore\obj\Debug\net8.0\DALCore.pdb
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\DALCore\obj\Debug\net8.0\ref\DALCore.dll

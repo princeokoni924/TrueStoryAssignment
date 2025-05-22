@@ -1,0 +1,15 @@
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\BLLInfrastructure\bin\Debug\net8.0\BLLInfrastructure.deps.json
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\BLLInfrastructure\bin\Debug\net8.0\BLLInfrastructure.dll
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\BLLInfrastructure\bin\Debug\net8.0\BLLInfrastructure.pdb
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\BLLInfrastructure\bin\Debug\net8.0\DALCore.dll
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\BLLInfrastructure\bin\Debug\net8.0\DALCore.pdb
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\BLLInfrastructure\obj\Debug\net8.0\BLLInfrastructure.csproj.AssemblyReference.cache
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\BLLInfrastructure\obj\Debug\net8.0\BLLInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\BLLInfrastructure\obj\Debug\net8.0\BLLInfrastructure.AssemblyInfoInputs.cache
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\BLLInfrastructure\obj\Debug\net8.0\BLLInfrastructure.AssemblyInfo.cs
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\BLLInfrastructure\obj\Debug\net8.0\BLLInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\BLLInfrastructure\obj\Debug\net8.0\BLLInfra.7E077E94.Up2Date
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\BLLInfrastructure\obj\Debug\net8.0\BLLInfrastructure.dll
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\BLLInfrastructure\obj\Debug\net8.0\refint\BLLInfrastructure.dll
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\BLLInfrastructure\obj\Debug\net8.0\BLLInfrastructure.pdb
+C:\Users\OKONIZE\source\repos\TrueStoryAssignment\BLLInfrastructure\obj\Debug\net8.0\ref\BLLInfrastructure.dll
